@@ -1,8 +1,0 @@
-TITINATUNING — versione rifinita
-
-- In fondo alla pagina, la scritta TitinaTuning usa il logo originale in corsivo giallo fluo.
-- Nella sezione centrale restano esattamente due stemmi: pistoni a sinistra e scritta corsiva a destra.
-- Il logo con i pistoni resta nella posizione grande della homepage.
-- I loghi sono incorporati nell'HTML.
-
-Apri questo index.html estratto in una cartella nuova.
